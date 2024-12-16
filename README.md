@@ -1,1 +1,1 @@
-# architektura-Z80-vs-MCS-48-
+# architekturų-Z80-ir-MCS-48 palyginimas
